@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-09-22
+
+Correct citation metadata to match the JOSS paper, including the title, authors, affiliations, licence and repository URL.
+
 ## [1.0.1] - 2026-09-22
 
 Apply the training seed and dtype before model initialization for reproducible training.
